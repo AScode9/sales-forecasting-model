@@ -1,0 +1,6 @@
+# Ignore data folder and model outputs
+your_data/
+*.pkl
+*.csv
+__pycache__/
+.ipynb_checkpoints/
